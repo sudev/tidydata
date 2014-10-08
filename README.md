@@ -19,15 +19,15 @@ You should create one R script called run_analysis.R that does the following.
 
 1. Download the [script]() `run_analysis.R` into your working directory.
 1. Source the downloaded script. 
-1. If you have the dataset downloaded please extract its contents into the working folder. else do the following    
-	```r
-	download.data() 
-	# will download and extract data from the source to working directory
-	```
+1. If you have the required dataset downloaded extract its contents into the working folder and rename folder as "Data", if you dont have a copy required dataset do the following    
+```r
+download.data()   
+# will download and extract data from the source to working directory
+```
 1. Run the following function  now to tidy dataset.
-    ```r
-    tidy.data() 
-    ```    
+```r
+tidy.data()    
+```    
 
 
 

@@ -9,9 +9,11 @@
 
 # RStudio files
 .Rproj.user/
-
+*.Rproj
 # Exclude pdfs 
 *.pdf
 
 # Exclude data set 
 UCI*/
+# 
+*.zip
